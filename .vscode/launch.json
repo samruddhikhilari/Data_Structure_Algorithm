@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "stack_by_array",
+      "request": "launch",
+      "mainClass": "stack_by_array",
+      "projectName": "Data_Structure_Algorithm_7fc639a1"
+    },
+    {
+      "type": "java",
+      "name": "StackArray",
+      "request": "launch",
+      "mainClass": "StackArray",
+      "projectName": "Data_Structure_Algorithm_7fc639a1"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
